@@ -1,2 +1,5 @@
 ---
 # defaults file for role
+
+needrestart_packages:
+  - needrestart
